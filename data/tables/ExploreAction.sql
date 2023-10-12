@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS "ExploreAction" (
+    "Id" INTEGER NOT NULL,
+    "Name" INTEGER NOT NULL,
+    PRIMARY KEY("Id")
+);

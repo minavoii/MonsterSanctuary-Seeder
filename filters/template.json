@@ -1,0 +1,52 @@
+{
+    "Randomizer": {
+        "Monsters": {
+            "Blob": "Sutsune",
+            "Vaero": "Rocky"
+        },
+        "Areas": {
+            "Mountain Path": [
+                "Mad Lord"
+            ],
+            "Blue Caves": [
+                "Asura"
+            ]
+        }
+    },
+    "Bravery": {
+        "Available": [
+            "Plague Egg",
+            "Brutus"
+        ],
+        "Familiar": "Spectral Eagle",
+        "Start": [
+            "Changeling",
+            "Goblin Brute"
+        ],
+        "Swimming": "Koi",
+        "Bex": "Amberlgna",
+        "Cryomancer": "Mad Eye",
+        "Cryomancer Required": "Rocky",
+        "End of Time": [
+            "Oculus"
+        ],
+        "Monster Army": [
+            "Qilin",
+            "Raduga"
+        ],
+        "Areas": {
+            "Mountain Path": "Sutsune",
+            "Blue Caves": "Druid Oak"
+        }
+    },
+    "Relics": {
+        "Available": [
+            "Grey Stone",
+            "Infinity Blaze"
+        ],
+        "Areas": {
+            "Mountain Path": "Holy Necklace",
+            "Blue Caves": "Wind Symbol"
+        }
+    }
+}

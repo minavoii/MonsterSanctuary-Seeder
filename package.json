@@ -1,7 +1,7 @@
 {
-    "name": "template-node",
+    "name": "monstersanctuary-seeder",
     "version": "1.0.0",
-    "description": "Template for Node projects using TypeScript, ESLint and Prettier.",
+    "description": "A seed finder and generator for Monster Sanctuary.",
     "main": "build/index.js",
     "type": "module",
     "scripts": {
@@ -10,7 +10,12 @@
     "keywords": [],
     "author": "Minavoii",
     "license": "MIT",
+    "dependencies": {
+        "better-sqlite3": "^8.4.0",
+        "uny-random": "1.0.1"
+    },
     "devDependencies": {
+        "@types/better-sqlite3": "^7.6.4",
         "@types/node": "^20.8.5",
         "@typescript-eslint/eslint-plugin": "^6.7.5",
         "eslint": "^8.51.0",
